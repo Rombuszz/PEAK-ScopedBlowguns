@@ -1,0 +1,9 @@
+{
+  "name": "ScopedBlowguns",
+  "version_number": "1.0.0",
+  "website_url": "https://rombusz.dev/contacts/bug-report/",
+  "description": "Lets you zoom in on your targets with a proper sniper scope when using the blowgun.",
+  "dependencies": [
+    "BepInEx-BepInExPack_PEAK-5.4.75301"
+  ]
+}
